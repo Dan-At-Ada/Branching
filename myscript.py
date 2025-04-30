@@ -1,4 +1,4 @@
-my_number = 20
-my_string = "Hello World"
+my_number = 33
+my_string = "Goodbye"
 
 hello
